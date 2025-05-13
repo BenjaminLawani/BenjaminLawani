@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminlawani&label=Profile%20views&color=0e75b6&style=flat" alt="benjaminlawani" /> </p>
 
-- 🔭 I’m currently working on **a knowledge base as a service**
+- 🔭 I’m currently working on **an ML Model service registry**
 
 - 🌱 I’m currently learning **.NET**
 
